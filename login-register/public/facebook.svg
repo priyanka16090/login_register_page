@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62" height="52" viewBox="0 0 62 52">
+  <defs>
+    <filter id="Rectangle_6054" x="0" y="0" width="62" height="52" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_55_6" data-name="Component 55 – 6" transform="translate(6 4)">
+    <g transform="matrix(1, 0, 0, 1, -6, -4)" filter="url(#Rectangle_6054)">
+      <g id="Rectangle_6054-2" data-name="Rectangle 6054" transform="translate(6 4)" fill="#fff" stroke="#eee" stroke-width="1">
+        <rect width="50" height="40" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="49" height="39" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_5446" data-name="Group 5446" transform="translate(-489 -217)">
+      <g id="facebook_1_" data-name="facebook (1)" transform="translate(497.875 219.875)">
+        <path id="Path_15291" data-name="Path 15291" d="M17.594,15.376H14.656V26.138H10.205V15.376H8.088V11.594h2.117V9.146A4.173,4.173,0,0,1,14.7,4.655l3.3.014V8.34H15.6a.906.906,0,0,0-.944,1.031V11.6h3.326Z" transform="translate(3.008 1.731)" fill="#3b5998"/>
+      </g>
+    </g>
+  </g>
+</svg>

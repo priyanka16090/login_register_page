@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62" height="52" viewBox="0 0 62 52">
+  <defs>
+    <filter id="Rectangle_6054" x="0" y="0" width="62" height="52" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6110" data-name="Rectangle 6110" width="21" height="21" transform="translate(416.04 224.73)" fill="#0077b5" stroke="#eee" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Component_57_6" data-name="Component 57 – 6" transform="translate(6 4)">
+    <g transform="matrix(1, 0, 0, 1, -6, -4)" filter="url(#Rectangle_6054)">
+      <g id="Rectangle_6054-2" data-name="Rectangle 6054" transform="translate(6 4)" fill="#fff" stroke="#eee" stroke-width="1">
+        <rect width="50" height="40" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="49" height="39" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Mask_Group_38" data-name="Mask Group 38" transform="translate(-401.04 -214.73)" clip-path="url(#clip-path)">
+      <g id="linkedin" transform="translate(415.992 224.992)">
+        <path id="Path_16819" data-name="Path 16819" d="M21.919,21.8h.005V14.177c0-3.73-.8-6.6-5.163-6.6a4.526,4.526,0,0,0-4.077,2.241h-.061V7.922H8.489V21.8h4.3V14.928c0-1.809.343-3.559,2.584-3.559,2.208,0,2.241,2.065,2.241,3.675V21.8Z" transform="translate(-1.136 -1.014)" fill="#0077b5"/>
+        <path id="Path_16820" data-name="Path 16820" d="M.4,7.977h4.31V21.855H.4Z" transform="translate(-0.053 -1.068)" fill="#0077b5"/>
+        <path id="Path_16821" data-name="Path 16821" d="M2.5,0a2.508,2.508,0,1,0,2.5,2.5A2.5,2.5,0,0,0,2.5,0Z" fill="#0077b5"/>
+      </g>
+    </g>
+  </g>
+</svg>

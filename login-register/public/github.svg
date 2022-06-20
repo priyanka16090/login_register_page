@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62" height="52" viewBox="0 0 62 52">
+  <defs>
+    <filter id="Rectangle_6054" x="0" y="0" width="62" height="52" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6108" data-name="Rectangle 6108" width="24" height="24" transform="translate(502 225)" fill="#586069" stroke="#eee" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Component_58_6" data-name="Component 58 – 6" transform="translate(6 4)">
+    <g transform="matrix(1, 0, 0, 1, -6, -4)" filter="url(#Rectangle_6054)">
+      <g id="Rectangle_6054-2" data-name="Rectangle 6054" transform="translate(6 4)" fill="#fff" stroke="#eee" stroke-width="1">
+        <rect width="50" height="40" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="49" height="39" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Mask_Group_31" data-name="Mask Group 31" transform="translate(-489 -217)" clip-path="url(#clip-path)">
+      <g id="github" transform="translate(502 225)">
+        <g id="Group_5415" data-name="Group 5415">
+          <path id="Path_15282" data-name="Path 15282" d="M12,.25a12.055,12.055,0,0,0-3.79,23.479c.6.111.819-.261.819-.58,0-.287-.01-1.044-.017-2.049-3.337.727-4.043-1.616-4.043-1.616a3.181,3.181,0,0,0-1.332-1.762c-1.091-.747.081-.732.081-.732a2.52,2.52,0,0,1,1.838,1.242,2.55,2.55,0,0,0,3.494,1,2.572,2.572,0,0,1,.762-1.611c-2.664-.3-5.466-1.338-5.466-5.954A4.67,4.67,0,0,1,5.58,8.434,4.341,4.341,0,0,1,5.7,5.246S6.7,4.922,9,6.481a11.327,11.327,0,0,1,6.009,0c2.291-1.559,3.3-1.234,3.3-1.234a4.348,4.348,0,0,1,.12,3.188,4.661,4.661,0,0,1,1.233,3.234c0,4.628-2.805,5.646-5.478,5.944a2.882,2.882,0,0,1,.815,2.231c0,1.611-.015,2.91-.015,3.3,0,.323.216.7.825.579A12.056,12.056,0,0,0,12,.25Z" fill="#586069"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

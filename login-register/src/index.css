@@ -1,0 +1,160 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(253, 253, 255);
+  display: flex;
+  min-height: 100px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+  height: 100%;
+  background-repeat: no-repeat;
+  text-align: center;
+  background-image: url(https://e2ehiring-cms-assets.s3.ap-south-1.amazonaws.com/Group_28433_1_278dcb2b0d.svg);
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+ 
+  /* background-image: url(https://e2ehiring-cms-assets.s3.ap-south-1.amazonaws.com/Group_28434_1_f954d59616.svg); */
+}
+@media(max-width:500px){
+  body{
+    background-image: unset;
+    
+  }
+}
+/* .App {
+  text-align: center;
+  background-image: url(https://e2ehiring-cms-assets.s3.ap-south-1.amazonaws.com/Group_28433_1_278dcb2b0d.svg);
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+} */
+.logo{
+  padding: 10px;
+}
+.img{
+  width: 110px;
+  height: 34px;
+}
+img {
+  vertical-align: middle;
+  border-style: none;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.heading{
+  display: flex;
+}
+.reg{
+  color: red;
+}
+
+.pwd{
+  /* display: flex; */
+  /* margin-left: 160p; */
+  text-align: right;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: #3f89f8;
+  font-style:calc();
+}
+html,body,#root{
+  height: 100%;
+}
+.form-container {
+  width: 360px;
+  /* margin-right: 10px; */
+  background-color: white;
+  margin: auto;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  padding: 10px;
+}
+
+.register-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding: 10px;
+  height: 100%;
+}
+
+.success-message {
+  font-family: "Roboto", sans-serif;
+  background-color: #3f89f8;
+  padding: 15px;
+  color: white;
+}
+
+.form-field {
+  margin: 10px 0 10px 0;
+  padding: 15px;
+  font-size: 16px;
+  border: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+span {
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  color: red;
+  margin-bottom: 15px;
+}
+
+input {
+  background: #f2f2f2;
+}
+
+.error {
+  border-style: solid;
+  border: 2px solid #ffa4a4;
+}
+
+button {
+  background: rgb(233, 121, 121);
+  color: white;
+  cursor: pointer;
+}
+.login{
+  color: black;
+}
+.form{
+  margin-left: 150px;
+}
+/* .logo{
+  background-image: url(/_next/static/media/signInBg.cc619411.png);
+    background-size: cover;
+    font-family: SF Pro Display!important;
+    min-height: calc(100vh - 0em);
+    background-color: #fff;
+} */
+
+.img img{
+  height: 30px;
+  width: 100px;
+  margin-left: 2px;
+  /* left: 1px; */
+  
+  /* position:relative; 
+  left:10px; 
+  top:2px; */
+  /* display: inline; */
+  /* padding-left: 20px; */
+}
+/* .text-center{
+  height: 20px;
+  width: 10px;
+} */
+
+/* .img{
+  vertical-align: middle;
+  border-style: none;
+  max-width: 100%;
+  height: auto;
+  box-sizing: border-box;
+} */
